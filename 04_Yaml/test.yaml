@@ -1,6 +1,13 @@
+# Instrucoes YAML
 nome: "Felipe"
 idade: 31
 
 objeto:
  versao: 2
  arquivo: "teste.txt"
+
+versao: 2
+versao_completa: 3.14
+
+string_sem_aspas: Texto Valido
+string_com_aspas: "Valido tambem"
