@@ -1,0 +1,6 @@
+nome: "Felipe"
+idade: 31
+
+objeto:
+ versao: 2
+ arquivo: "teste.txt"
