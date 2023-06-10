@@ -11,3 +11,19 @@ versao_completa: 3.14
 
 string_sem_aspas: Texto Valido
 string_com_aspas: "Valido tambem"
+
+nulo: ~
+nul0_2: null
+
+verdadeiro: true
+verdad2: on
+
+falso: false
+falso2: off
+
+array: [1,2,3,4]
+
+lista: 
+  - 1
+  - 2
+  - 3
